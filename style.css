@@ -1,0 +1,16 @@
+#contenedor video{
+	max-width: auto;
+	width: auto;
+}
+#contenedor{
+	max-width: auto;
+	position:relative;
+}
+canvas{
+	max-width: auto;
+}
+canvas.drawingBuffer{
+	position:absolute;
+	top:0;
+	left:0;
+}
